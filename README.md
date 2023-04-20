@@ -25,6 +25,12 @@
 <p align="right">
 <a href="https://www.linkedin.com/in/heblopez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-la-rosa-4497a995" height="30" width="40" /></a> </p>
 
+<div align="center">
+<a href="https://github.com/heblopez/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heblopez&langs_count=8&card_width=400&bg_color=fff" />
+</a>
+<div>
+
 <!--
 **heblopez/heblopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. (PENDING)
 
