@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,regex,mysql,postgresql,aws,git,github,javascript,react,html,css,sass,bootstrap,figma" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,regex,mysql,postgresql,aws,git,github,javascript,react,vite,webpack,typescript,html,css,sass,bootstrap,figma,emotion,vscode,babel,codepen,wordpress,&perline=12" />
   </a>
 </p>
 
@@ -23,7 +23,12 @@
    
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://www.linkedin.com/in/heblopez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-la-rosa-4497a995" height="30" width="40" /></a> </p>
+<a href="https://www.linkedin.com/in/heblopez/" target="blank"><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin"></a>
+
+</a>  
+<a href="mailto:heberth.lopez.19@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail">
+</a></p>
 
 <div align="center">
 <a href="https://github.com/heblopez/">
