@@ -32,7 +32,7 @@
 
 <div align="center">
 <a href="https://github.com/heblopez/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heblopez&langs_count=8&card_width=400&bg_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heblopez&langs_count=7&card_width=400&bg_color=fff" />
 </a>
 <div>
 
