@@ -99,8 +99,7 @@
 
 <div align="center" style="display:flex; flex-direction: column; gap: 16px">
    <img src="https://streak-stats.demolab.com?user=heblopez&locale=en&mode=daily&theme=ocean-gradient&hide_border=true&border_radius=17&order=3" height="177" alt="streak graph"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heblopez&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="390" alt="languages graph"          style="margin-bottom: -48px; margin-top: 16px"/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heblopez&radius=16&theme=react&area=true&order=5" height="360" alt="activity-graph graph"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heblopez&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="390" alt="languages graph"          style="margin-top: 16px"/>
 </div>
 
 ## <h2 align="right"> 📧 Connect with me:</h2>
